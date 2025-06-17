@@ -17,7 +17,7 @@ We specialize in DeFi protocols across EVM chains and Solana.
 ### Team Audit Competitions
 | Contest        | Platform  | Category                                  | Ranking      | Findings |
 |----------------|-----------|-------------------------------------------|--------------|----------|
-| [Yearn Finance](https://audits.sherlock.xyz/contests/977) | Sherlock  | Liquity stability pool integration | **#1**/355 🥇 | [2H](https://audits.sherlock.xyz/contests/977)
+| [Yearn Finance](https://audits.sherlock.xyz/contests/977) | Sherlock  | Liquity v2 stability pool integration | **#1**/355 🥇 | [2H](https://audits.sherlock.xyz/contests/977)
 | [Pump.fun](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) | Cantina  | Constant product AMM on Solana | **#1**/435 🥇 | [1M](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) |
 | [Stealth](https://audits.sherlock.xyz/contests/845) | Sherlock  | Private Contest / Token Vesting, Governance (on Solana) | **#1**/10 🥇 | [1M](https://audits.sherlock.xyz/contests/845) |
 | [ZeroLend One](https://audits.sherlock.xyz/contests/466/leaderboard) | Sherlock | 	Aave V3 Fork | **#2**/277 🥈 | [10H, 7M](https://github.com/sherlock-audit/2024-06-new-scope-judging/issues?q=is%3Aissue+Obsidian+label%3AReward+) |
