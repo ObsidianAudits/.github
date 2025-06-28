@@ -24,6 +24,10 @@ We specialize in DeFi protocols across EVM chains and Solana.
 | [Sentiment v2](https://audits.sherlock.xyz/contests/349?filter=results) | Sherlock | Isolated Lending | **#3**/357 🥉 | [1H, 7M](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues?q=is%3Aissue+Obsidian+label%3Areward+sort%3Acreated-asc) |
 | [Uniswap v4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659) | Cantina | Concentrated Liquidity AMM  | **#6**/482 | 2M |
 
+### Bug Bounties
+| Protocol | Category | Severity | Writeup |
+|----------|----------|----------|---------|
+|[Fraxlend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|High| [Writeup](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)|
 ---
 ## Testimonials
 > Working with Obsidian has been a great experience. Their audit was incredibly thorough, highly professional, and showed deep attention to details. The quality of their security review stood out — two independent follow-up audits found only a small number of additional issues, highlighting Obsidian’s strong coverage and expertise. We’re excited to keep working with Juan and Spearmint for our future security reviews and make them one of our go-to security partner.
