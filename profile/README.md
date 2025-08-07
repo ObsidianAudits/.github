@@ -47,7 +47,7 @@ Our individual audit portfolios can be found here:
 ## Highlights
 
 - 10+ Top 2 placements in audit competitions
-- Ranked #7 on [Sherlock's leaderboard](https://audits.sherlock.xyz/leaderboards)
+- Ranked #6 on [Sherlock's leaderboard](https://audits.sherlock.xyz/leaderboards)
 - Ongoing security partners with [Tenor Finance](https://x.com/TenorFinance)
 
 
