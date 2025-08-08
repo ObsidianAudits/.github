@@ -1,6 +1,9 @@
+## About us
+We provide top-tier smart contract security audits for DeFi protocols across EVM and Solana. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of #1 competition placements, and security partnerships with leading protocols.
+
 ## Our Track Record
 
-* 10+ Top-2 finishes in audit competitions (#1 for Yearn Finance, Pump.fun, DeBank, and [more](https://github.com/ObsidianAudits/audits))
+* 10+ Top-2 placements in audit competitions (#1 for Yearn Finance, Pump.fun, DeBank, and [more](https://github.com/ObsidianAudits/audits))
 * Ranked #6 on [Sherlock’s leaderboard](https://audits.sherlock.xyz/leaderboards)
 * Trusted by [Tenor finance](https://x.com/TenorFinance), [Agora](https://x.com/withAUSD), [Hyperdrive](https://x.com/hyperdrivedefi) and more
 
@@ -8,7 +11,7 @@ View our [full portfolio](https://github.com/ObsidianAudits/audits) including pr
 
 ---
 
-## Founding Researchers
+## Founding Security Researchers
 
 * [0xjuaan](https://github.com/0xjuaan) 
 * [0xSpearmint](https://github.com/0xSpearmint) 
