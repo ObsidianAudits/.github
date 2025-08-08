@@ -1,16 +1,10 @@
-## Obsidian Audits
+## Our Track Record
 
-Smart contract security reviews by researchers with a proven track record and deep expertise in DeFi protocols.
-
----
-
-## Track Record
-
-* 10+ Top-2 finishes in audit competitions (#1 for Yearn, Pump.fun, DeBank, and [more](https://github.com/ObsidianAudits/audits))
+* 10+ Top-2 finishes in audit competitions (#1 for Yearn Finance, Pump.fun, DeBank, and [more](https://github.com/ObsidianAudits/audits))
 * Ranked #6 on [Sherlock’s leaderboard](https://audits.sherlock.xyz/leaderboards)
 * Trusted by [Tenor finance](https://x.com/TenorFinance), [Agora](https://x.com/withAUSD), [Hyperdrive](https://x.com/hyperdrivedefi) and more
 
-View our [full portfolio](https://github.com/ObsidianAudits/audits) including private security reviews, and audit competitions.
+View our [full portfolio](https://github.com/ObsidianAudits/audits) including private audit reports, and audit competitions.
 
 ---
 
@@ -28,6 +22,6 @@ We developed and maintain [hyper-evm-lib](https://github.com/hyperliquid-dev/hyp
 ---
 
 ## Work With Us
-If you're serious about the security of your DeFi protocol, and want your contracts to be audited by publicly proven researchers, reach out:
-[Telegram](https://t.me/juan_sec)
+If you're serious about the security of your DeFi protocol, and want your contracts to be audited by publicly proven researchers, reach out on
+[telegram](https://t.me/juan_sec)
 
