@@ -1,5 +1,5 @@
 ## About us
-We provide top-tier smart contract security audits for DeFi protocols across EVM and Solana. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of #1 competition placements, and security partnerships with leading protocols.
+We provide top-tier smart contract security audits for DeFi protocols across EVM chains and Solana. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of #1 competition placements, and security partnerships with leading protocols.
 
 ## Our Track Record
 
