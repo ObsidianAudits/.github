@@ -20,11 +20,11 @@ View our [full portfolio](https://github.com/ObsidianAudits/audits) including pr
 
 ## Open-source tools
 
-We developed and maintain [hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib). The all-in-one library to seamlessly build secure smart contracts on HyperEVM.
+We developed and maintain [hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib). The all-in-one library to seamlessly build and test smart contracts on HyperEVM.
 
 ---
 
-## Work With Us
-If you're serious about the security of your DeFi protocol, and want your contracts to be audited by publicly proven researchers, reach out on
-[telegram](https://t.me/juan_sec)
+## Contact
+- [Telegram](https://t.me/juan_sec)
+- [Twitter](https://x.com/obsidianaudits)
 
