@@ -27,4 +27,5 @@ We developed and maintain [hyper-evm-lib](https://github.com/hyperliquid-dev/hyp
 ## Contact
 - [Telegram](https://t.me/juan_sec)
 - [Twitter](https://x.com/obsidianaudits)
+- [Audit request form](https://tally.so/r/w8YaZz)
 
